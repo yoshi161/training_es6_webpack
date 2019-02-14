@@ -26,6 +26,9 @@ To start the development server
 npm start
 ```
 
+You can access the deployed project on localhost:8080
+
+
 To build for production
 
 ```sh
